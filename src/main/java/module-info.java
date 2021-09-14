@@ -1,4 +1,4 @@
-module ru.invegorant.heatrapp {
+module ru.invegorant.heartapp {
     requires javafx.controls;
     requires javafx.fxml;
 
